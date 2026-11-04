@@ -14,3 +14,5 @@ Python notebooks exploring chaos in the logistic map and the two-dimensional Hé
 
 - **Hénon map:** the orbit settles onto a thin, layered curve called a strange attractor, rather than filling the plane. Stretching and folding keeps points bounded while pulling nearby points apart.
 - **Sensitivity to initial conditions:** the two orbits stay together for a while, then become completely different after about 55 iterations. On a log scale the gap grows along a straight line, which means exponential growth.
+
+ completed as part of the MPS115 module
